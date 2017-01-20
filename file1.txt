@@ -1,2 +1,4 @@
 file1 data
+
 added new line
+file1 3rd line
